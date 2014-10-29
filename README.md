@@ -13,7 +13,7 @@ Include the fullscreen.js file in your html page
 Add a trigger element to your html:
 
 	<button type="button" class="btn" id="full-screen">
-	  <span class="glyphicon glyphicon-fullscreen"></span>
+    <span class="glyphicon glyphicon-fullscreen"></span>
 	</button>
 
 At the moment the button uses the bootstrap glyphicon styles but will add customization for this later
